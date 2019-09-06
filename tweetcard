@@ -1,0 +1,15 @@
+<html>
+<head>
+<meta name="twitter:image" content="<!" />
+<meta name="twitter:card" content="player" />
+<meta name="twitter:title" content="Uniring Tokens" />
+<meta name="twitter:description" content="If you have a MetaMask, you can purchase a Uniring token here in this tweet. Click the play button." />
+<meta name="twitter:player" content="https://uniswap.exchange/swap/0x21647310e9d1ed929eb9ab626d34e4df3b74a0a1?exactField=input?exactAmount=1" />
+<meta name="twitter:player:width" content="360" />
+<meta name="twitter:player:height" content="700" />
+<title> Title</title>
+</head>
+<body>
+Body Test
+</body>
+</html>
